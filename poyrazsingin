@@ -1,0 +1,30 @@
+index.html
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Poyraz Sıngın - Resmi Web Sitesi</title>
+</head>
+<body>
+  <h1>Poyraz Sıngın Kimdir?</h1>
+  <p>Merhaba! Ben Poyraz Sıngın. Bilim, teknoloji ve keşfetmeye tutkuyla bağlı bir araştırmacı-öğrenciyim. Özellikle fizik, astronomi ve genel bilim alanlarında çalışmalar yürütüyorum.  
+  Bilime olan ilgim, küçük yaşlardan itibaren başladı ve hayatımın merkezine yerleşti. Bugün, projelerim ve deneyimlerimle bilim dünyasına katkı sunmayı hedefliyorum. Ayrıca bilimsel gelişmeleri 
+  halkla paylaşmayı da seviyorum.</p>
+
+  <h2>İlgi Alanlarım</h2>
+  <ul>
+    <li>Fizik ve Astronomi</li>
+    <li>Genel Görelilik ve Kozmoloji</li>
+    <li>Bilimsel Programlama ve Hesaplamalı Fizik</li>
+    <li>Yeni Nesil Enerji Çözümleri</li>
+    <li>Biyoloji</li>
+  </ul>
+
+  <h2>Projeler</h2>
+  <p>Şu anda "Project Light" adını verdiğim bir projede bilincin kökenlerini araştırıyorum. Ayrıca görüntü işleme ve biyoplastik geliştirme üzerine de aktif çalışmalar yürütüyorum.</p>
+
+  <h2>İletişim</h2>
+  <p>Benimle iletişime geçmek için yakında açılacak olan <strong>iletişim formunu</strong> kullanabilirsiniz.</p>
+</body>
+</html>
